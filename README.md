@@ -1,5 +1,10 @@
 # Monte Carlo Pi Estimation (WPF)
 
+# Showcase
+![grafik](https://github.com/user-attachments/assets/30f0e50d-49ce-4ceb-b329-79ef3f3b6fb2)
+![grafik](https://github.com/user-attachments/assets/a3853e75-7dea-4140-970b-cd1923b0e67e)
+
+
 ## Features
 
 - Monte Carlo simulation to approximate Pi
